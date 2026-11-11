@@ -1,1 +1,106 @@
-{"SCO":{"ParcelID":"","Licensing":true,"Version":"1.1","Whitelist":[]},"EX_Glassdoors":{"ParcelID":"zd80mglwut6lanl40svcssago8nz","Licensing":true,"Version":"1.0","Whitelist":[]},"Surface":{"ParcelID":"14ez83kos7nz3n82b2mhx27ytpnu","Licensing":true,"Version":"1.3","Whitelist":[10651226043,4729878040,545458752,1689055203,8184634922,3148757167,4403849058,4410998208]},"Office_Doors":{"ParcelID":"9mmk9fk6p4x9j1m2ozqogc0ocq1j","Licensing":true,"Version":"1.0","Whitelist":[4729878040]},"Intercom":{"ParcelID":"rlm7oqd0g6edk3xjv6f6gos19crb","Licensing":true,"Version":"1.1","Whitelist":[]},"AutomaticDoors":{"ParcelID":"6zo6fj8ap6rjqpcaa0yhzgc3hv3d","Licensing":true,"Version":"1.0","Whitelist":[]},"Blacklist":[3929378306,2309956212],"EPSONProjector":{"ParcelID":"g72a3k1563vadd6vxvqc6witjtqy","Licensing":false,"Version":"nil","Whitelist":[]},"GroupBlacklist":[1034940434,757465467],"DrinkDispenser":{"ParcelID":"4hbcr3tow358v5klkdmqpmoh9wdo","Licensing":true,"Version":"1.1.1","Whitelist":[]},"EPSONV2":{"ParcelID":"6zkcuzxdgbv30ill93ttdd61cw7z","Licensing":true,"Version":"2.3.5","Whitelist":[4729878040]},"HubID":"68d687df5abf14d53c9bd747","Whiteboard":{"ParcelID":"8a90oe10rar4kbms6nmtdlxhdooe","Licensing":true,"Version":"1.0","Whitelist":[]},"Smartboard":{"ParcelID":"ai7dxpv0q9l6xaon93kn7vo4fxdm","Licensing":true,"Version":"2.1.1","Whitelist":[]},"SmartMINI":{"ParcelID":"ni9vo318s9hcvdbqtivxi6k1zpp7","Licensing":true,"Version":"1.3","Whitelist":[]}}
+{
+  "HubID": "68d687df5abf14d53c9bd747",
+
+  "SCO": {
+    "ParcelID": "",
+    "Licensing": true,
+    "Version": "1.1",
+    "Whitelist": []
+  },
+
+  "DrinkDispenser": {
+    "ParcelID": "4hbcr3tow358v5klkdmqpmoh9wdo",
+    "Licensing": true,
+    "Version": "1.1.1",
+    "Whitelist": []
+  },
+
+  "AutomaticDoors": {
+    "ParcelID": "6zo6fj8ap6rjqpcaa0yhzgc3hv3d",
+    "Licensing": true,
+    "Version": "1.0",
+    "Whitelist": []
+  },
+
+  "Smartboard": {
+    "ParcelID": "ai7dxpv0q9l6xaon93kn7vo4fxdm",
+    "Licensing": true,
+    "Version": "2.1.1",
+    "Whitelist": []
+  },
+
+  "EPSONProjector": {
+    "ParcelID": "g72a3k1563vadd6vxvqc6witjtqy",
+    "Licensing": false,
+    "Version": "nil",
+    "Whitelist": []
+  },
+
+  "SmartMINI": {
+    "ParcelID": "ni9vo318s9hcvdbqtivxi6k1zpp7",
+    "Licensing": true,
+    "Version": "1.3",
+    "Whitelist": []
+  },
+
+  "Whiteboard": {
+    "ParcelID": "8a90oe10rar4kbms6nmtdlxhdooe",
+    "Licensing": true,
+    "Version": "1.0",
+    "Whitelist": []
+  },
+
+  "EX_Glassdoors": {
+    "ParcelID": "zd80mglwut6lanl40svcssago8nz",
+    "Licensing": true,
+    "Version": "1.0",
+    "Whitelist": []
+  },
+
+  "Intercom": {
+    "ParcelID": "rlm7oqd0g6edk3xjv6f6gos19crb",
+    "Licensing": true,
+    "Version": "1.1",
+    "Whitelist": []
+  },
+
+  "Office_Doors": {
+    "ParcelID": "9mmk9fk6p4x9j1m2ozqogc0ocq1j",
+    "Licensing": true,
+    "Version": "1.0",
+    "Whitelist": [4729878040]
+  },
+
+  "EPSONV2": {
+    "ParcelID": "6zkcuzxdgbv30ill93ttdd61cw7z",
+    "Licensing": true,
+    "Version": "2.3.5",
+    "Whitelist": [4729878040]
+  },
+
+  "Surface": {
+    "ParcelID": "14ez83kos7nz3n82b2mhx27ytpnu",
+    "Licensing": true,
+    "Version": "1.3",
+    "Whitelist": [
+      10651226043,
+      4729878040,
+      545458752,
+      1689055203,
+      8184634922,
+      3148757167,
+      4403849058,
+      4410998208
+    ]
+  },
+
+  "Blacklist": [
+    3929378306,
+    2309956212
+  ],
+
+  "GroupBlacklist": [
+    1034940434,
+    757465467
+  ]
+}
